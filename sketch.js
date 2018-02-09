@@ -5,7 +5,7 @@ function setup() {
 
 function draw() {
   stroke(0);
-  stroke(255,0,255);
+  stroke(255,255,0);
   if(mouseIsPressed){
     fill(0);
 
