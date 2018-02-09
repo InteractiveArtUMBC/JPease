@@ -5,7 +5,7 @@ function setup() {
 
 function draw() {
   stroke(0);
-  stroke('#fae');
+  stroke('#fae');//this is a hex color
   if(mouseIsPressed){
     fill(0);
 
